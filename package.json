@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danilodelara/ofertas-promocao/issues"
   },
-  "homepage": "https://github.com/danilodelara/ofertas-promocao#readme"
+  "homepage": "https://github.com/danilodelara/ofertas-promocao#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
